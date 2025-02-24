@@ -128,10 +128,11 @@
     "New Container Name...": "New Container Name...",
     "Network name...": "Network name...",
     "Select a network...": "Select a network...",
-    "NoNetworksAvailable": "No networks available. You need to add internal networks or enable external networks in the right side first.",
     "CPU": "CPU",
     "memory": "Memory",
     "memoryAbbreviated": "Mem",
     "networkIO": "Network I/O",
-    "blockIO": "Block I/O"
+    "blockIO": "Block I/O",
+    "NoNetworksAvailable": "No networks available. You need to add internal networks or enable external networks in the right side first.",
+    "updateAll": "Update All"
 }
